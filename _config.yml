@@ -123,3 +123,9 @@ baidusitemap:
 # aplayer
 aplayer:
   meting: true
+
+# hexo-admin authentification
+admin:
+  username: 少星
+  password_hash: $2a$10$QVFPFjx5E/3hNdTPgLslteOJYdtOny8egQpQCaWKn/.VWKdN9iUOK
+  secret: ewwqewefgergfddgdfgdf
