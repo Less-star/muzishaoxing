@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## 如果您的站点位于子目录中，请将url设置为'http://yoursite.com/child' and root as '/child/'
-url: https://github.com/Less-star/less-star.github.io
+url: https://muzishaoxing.vercel.app
 root: /
 permalink: :year/:id/
 permalink_defaults:
